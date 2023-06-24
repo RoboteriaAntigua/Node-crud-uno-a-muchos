@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "tete",
+    "username": "",
     "password": "",
     "database": "express_uno_a_muchos",
     "host": "127.0.0.1",

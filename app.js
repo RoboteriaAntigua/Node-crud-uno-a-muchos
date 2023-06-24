@@ -4,7 +4,6 @@ const app = express();
 //El router
 var indexRouter = require('./routes/index');
 app.use('/', indexRouter);
-//Rutas del CRUD de la tabla categorias
 
 app.listen(3000, () => { console.log('servidor corriendo') })
 
